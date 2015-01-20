@@ -1,5 +1,4 @@
 username: mysteri0uss
-baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
