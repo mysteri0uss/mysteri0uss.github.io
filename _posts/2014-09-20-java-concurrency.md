@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: content
 title: Java 中的并发
 ---
 
